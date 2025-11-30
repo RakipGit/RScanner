@@ -27,11 +27,9 @@ def welcome(count):
 
     grid = Table.grid(expand=True)
     grid.add_column(justify="left")
-    grid.add_column(justify="right")
 
     grid.add_row(
         f"[bold blue]Scans Completed: {count}", 
-        "[bold blue]by:RAKIP"
     )
 
     content = Group(text, Text("\n"), grid)
