@@ -77,7 +77,7 @@ This project helped me better understand:
 - Domain resolution
 - API integration
 - Exception handling(socket.gaierror)
-- Terminal CLI design
+- CLI design
 
 ---
 
