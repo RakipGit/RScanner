@@ -45,7 +45,7 @@ This project helped me better understand:
 ![main](images/main.png)
 
 <details>
-<summary>🔎 View Full Lab Walkthrough (Screenshots)</summary>
+<summary>🔎 View RScanner Screenshots</summary>
   
 1.Common Ports Scan 
 ![Fisrt Coomon Port Scan](images/optscan.png)
